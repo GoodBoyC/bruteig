@@ -1,6 +1,4 @@
-RYDAH SECURITY TEAM👪
-
-INSTAGRAM BRUTEFORCE BY RST
+# Install Packages
 
 pkg update
 
@@ -18,10 +16,17 @@ pip2 install bs4
 
 python3 -m pip install requests bs4
 
-rm -rf IGHACK
 
-git clone https://github.com/RydahXyber/IGHACK
+## Clone
 
-cd IGHACK
+```
+rm -rf bruteig
+git clone https://github.com/GoodboyC/bruteig
+```
 
-python RYDAHIG.py
+## Run
+
+```
+cd bruteig
+python chinda
+```
