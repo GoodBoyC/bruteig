@@ -28,5 +28,5 @@ git clone https://github.com/GoodboyC/bruteig
 
 ```
 cd bruteig
-python chinda
+python run.py
 ```
